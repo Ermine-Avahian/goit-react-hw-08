@@ -14,7 +14,7 @@ a:hover {
   text-decoration: underline;
 }
 .active {
-  color: white;
+  color: rgb(20, 94, 26);
 }
 
 .active:hover {
